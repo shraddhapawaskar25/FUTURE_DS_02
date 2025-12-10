@@ -16,3 +16,4 @@ Skills & Tools Used:
 Power BI • DAX • Marketing Analytics • Data Cleaning • KPI Tracking • Dashboard Design • Business Insights
 This dashboard helps marketing teams evaluate ROI, optimize ad targeting, and make data-driven decisions for better campaign performance.
 Grateful to Future Interns for assigning this task and helping me strengthen my analytics and marketing intelligence skills!
+
